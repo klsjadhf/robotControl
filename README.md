@@ -25,6 +25,16 @@ input is string with one of the values:
 
 no return value
 
+`robotControl.turn()`
+input is number of degrees to turn (float)  
+positive is turn right, negative is turn left  
+no return value  
+
+`robotControl.travel()`
+input is meters to move (float)    
+positive is move foward, negative is move backwards  
+no return value  
+
 # sensors
 `robotControl.get_sensor(sensor)`
 input | sensor
