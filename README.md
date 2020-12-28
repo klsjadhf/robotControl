@@ -1,13 +1,13 @@
 # robotControl
 some random python module to control my robot
 # contents
-* [usage](./README.md#usage)
-* [movement controls](./README.md#movement-controls)
-* [sensors](./README.md#sensors)
-  * [switches](./README.md#switches)
-  * [accelerometer](./README.md#accelerometer)
-  * [gyroscope](./README.md#gyroscope)
-  * [magnometer](./README.md#magnometer)
+* [usage](#usage)
+* [movement controls](#movement-controls)
+* [sensors](#sensors)
+  * [switches](#switches)
+  * [accelerometer](#accelerometer)
+  * [gyroscope](#gyroscope)
+  * [magnometer](#magnometer)
 
 # usage
 1. connect to server: `robotControl.connect(IP_ADDR, TCP_PORT)`
